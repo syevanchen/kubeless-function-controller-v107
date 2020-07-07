@@ -1,0 +1,1 @@
+FROM kubeless/function-controller:v1.0.7
